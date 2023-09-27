@@ -50,4 +50,12 @@ h3 {
     background: var(--primary-color);
     border-radius: 5px;
     font-size: 15px;
+    margin-top: 10px;
+}
+
+ul {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
